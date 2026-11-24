@@ -2,7 +2,7 @@
   <img src="https://nivis.tf/favicon.svg" alt="Nivis" width="120">
 </p>
 
-<h3 align="center">Terraform providers as first-class Nix values.</h3>
+<h3 align="center">Terraform resources as Nix values.</h3>
 
 <p align="center">
   Describe real infrastructure in a Nix flake instead of HCL. Nivis drives unmodified
